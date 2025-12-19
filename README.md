@@ -89,12 +89,12 @@ npm start
 Single Data:
 <img width="1916" height="889" alt="image" src="https://github.com/user-attachments/assets/fee8c05d-c04e-4a72-b6ea-de0421530b18" />
 
-Multi Data:
+Multi Data: </br>
 Table Ouput:
 <img width="1918" height="616" alt="image" src="https://github.com/user-attachments/assets/6fd47d64-e963-4345-8483-49bdd593d98c" />
 
 Download CSV Output:
-<img width="1914" height="468" alt="image" src="https://github.com/user-attachments/assets/f5b8338c-bb18-4aaa-888f-343a2c56bc73" />
+<img width="1914" height="468" alt="image" src="https://github.com/user-attachments/assets/f5b8338c-bb18-4aaa-888f-343a2c56bc73" /> </br>
 <img width="1893" height="621" alt="image" src="https://github.com/user-attachments/assets/0002f2f4-0296-4128-8747-46d743d3639b" />
 
 API Docs:
